@@ -1,7 +1,8 @@
-streamlit
-torch
 transformers
 datasets
-scikit-learn
+torch
+torchvision
 xgboost
-pillow
+scikit-learn
+Pillow
+tqdm
